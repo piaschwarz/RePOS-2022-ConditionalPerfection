@@ -99,7 +99,7 @@
         <label for="ja">Ja</label><br>
         <input type="radio" id="nein" value="Nein" v-model="$magpie.measurements.german_native" />
         <label for="nein">Nein</label><br>
-        <input type="radio" id="keineAngabe" value="KeineAngabe" v-model="$magpie.measurements.german_native" checked/>
+        <input type="radio" id="keineAngabe" value="KeineAngabe" v-model="$magpie.measurements.german_native" checked>
         <label for="keineAngabe">Keine Angabe</label>
       </div>
       <br>
