@@ -98,9 +98,7 @@
         <input type="radio" id="ja" value="Ja" v-model="$magpie.measurements.german_native" />
         <label for="ja">Ja</label><br>
         <input type="radio" id="nein" value="Nein" v-model="$magpie.measurements.german_native" />
-        <label for="nein">Nein</label><br>
-        <input type="radio" id="keineAngabe" value="KeineAngabe" v-model="$magpie.measurements.german_native" checked>
-        <label for="keineAngabe">Keine Angabe</label>
+        <label for="nein">Nein</label>
       </div>
       <br>
       <div>
@@ -150,6 +148,10 @@ import _ from 'lodash';
 
 var startTime;
 var endTime;
+var german_native = "keine Angabe";
+var knows_pragmatics = "keine Angabe";
+var knows_logic = "keine Angabe";
+var comments = ""
 
 export default {
   name: 'App',
@@ -175,6 +177,14 @@ export default {
       return miliseconds
     }
   },
+  mounted() {
+    this.$magpie.addExpData({
+      german_native : german_native,
+      knows_pragmatics : knows_pragmatics,
+      knows_logic : knows_logic,
+      comments : comments
+    });
+  }
 };
 
 </script>
