@@ -80,7 +80,11 @@
               'item_answer_type': tvj_task.item.split('_')[2],
               'item_number': tvj_task.item.split('_')[1],
               'trial_number': i+1,
-              'stopwatch_seconds': getResponseTime(),
+              'stopwatch_ms': getResponseTime(),
+              'german_native': 'N/A',
+              'knows_pragmatics': 'N/A',
+              'knows_logic': 'N/A',
+              'comments': 'N/A'
             }" />
         </template>
         
@@ -163,14 +167,14 @@ export default {
   methods: {
     getStartTime() {
       startTime = Date.now();
-      console.log("STARTED TIMER: ", startTime.toString())
+      //console.log("STARTED STOPWATCH: ", startTime.toString())
     },
     getResponseTime() {
       endTime = Date.now();
-      console.log("STOPPED TIMER: ", endTime.toString())
-      var seconds = (endTime - startTime)/1000;
-      console.log("RESPONSETIME in secs: ", seconds)
-      return seconds
+      //console.log("STOPPED STOPWATCH: ", endTime.toString())
+      var miliseconds = endTime - startTime;
+      //console.log("STOPWATCH time in milisecs: ", miliseconds)
+      return miliseconds
     }
   },
 };
