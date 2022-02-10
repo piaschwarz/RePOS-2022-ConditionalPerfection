@@ -80,11 +80,7 @@
               'item_answer_type': tvj_task.item.split('_')[2],
               'item_number': tvj_task.item.split('_')[1],
               'trial_number': i+1,
-              'stopwatch_ms': getResponseTime(),
-              'german_native': 'N/A',
-              'knows_pragmatics': 'N/A',
-              'knows_logic': 'N/A',
-              'comments': 'N/A'
+              'stopwatch_ms': getResponseTime()
             }" />
         </template>
         
@@ -99,10 +95,12 @@
       <br>
       <div>
         <legend><b>Ist deutsch Ihre Muttersprache?</b></legend>
-        <input type="radio" id="ja" value="Ja" v-model="$magpie.measurements.german_native" />
+        <input type="radio" id="ja" value="ja" v-model="$magpie.measurements.german_native" />
         <label for="ja">Ja</label><br>
-        <input type="radio" id="nein" value="Nein" v-model="$magpie.measurements.german_native" />
+        <input type="radio" id="nein" value="nein" v-model="$magpie.measurements.german_native" />
         <label for="nein">Nein</label>
+        <input type="radio" id="ka" value="ka" v-model="$magpie.measurements.german_native" />
+        <label for="ka">Keine Angabe</label>
       </div>
       <br>
       <div>
@@ -157,6 +155,7 @@ export default {
   name: 'App',
   data() {
     return {
+      german_native: "ka",
       test_filler_items: _.shuffle(_.sample([test_filler_items_A, test_filler_items_B])),
       startTime,
       endTime,
