@@ -95,12 +95,12 @@
       <br>
       <div>
         <legend><b>Ist deutsch Ihre Muttersprache?</b></legend>
-        <input type="radio" id="ja" value="ja" v-model="$magpie.measurements.german_native" />
+        <input type="radio" id="ja" value="Ja" v-model="$magpie.measurements.german_native" />
         <label for="ja">Ja</label><br>
-        <input type="radio" id="nein" value="nein" v-model="$magpie.measurements.german_native" />
-        <label for="nein">Nein</label>
-        <input type="radio" id="ka" value="ka" v-model="$magpie.measurements.german_native" />
-        <label for="ka">Keine Angabe</label>
+        <input type="radio" id="nein" value="Nein" v-model="$magpie.measurements.german_native" />
+        <label for="nein">Nein</label><br>
+        <input type="radio" id="keineAngabe" value="KeineAngabe" v-model="$magpie.measurements.german_native" checked/>
+        <label for="keineAngabe">Keine Angabe</label>
       </div>
       <br>
       <div>
@@ -155,7 +155,6 @@ export default {
   name: 'App',
   data() {
     return {
-      german_native: "ka",
       test_filler_items: _.shuffle(_.sample([test_filler_items_A, test_filler_items_B])),
       startTime,
       endTime,
