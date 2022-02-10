@@ -1,6 +1,6 @@
 # conditional-perfection
 
-This is a sample experiment using magpie.
+This is a replication study of the paper about Conditional Perfection of [Farr, 2011](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/374).
 
 First, set up the project with `npm install`
 
