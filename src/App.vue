@@ -18,17 +18,17 @@
     <InstructionScreen :title="'Ablauf des Experiments'">
       Im Folgenden wird Ihnen zunächst jeweils ein Text gezeigt, der eine Alltagssituation beschreibt. 
       Lesen Sie diesen bitte aufmerksam durch.<br>
-      Sobald Sie den Text gelesen und verstanden haben, klicken Sie auf Weiter, dann erscheinen 
+      Sobald Sie den Text gelesen und verstanden haben, klicken Sie jeweils auf <b>Weiter</b>, dann erscheinen 
       nacheinander Fragen und Antworten zum Text.<br>
-      Am Ende jedes Textes bekommen Sie eine Frage gestellt, die Sie mit Ja oder Nein beantworten können. 
+      Am Ende jedes Textes bekommen Sie eine Frage gestellt, die Sie mit <b>Ja</b> oder <b>Nein</b> beantworten. 
       <br />
       <br />
-      Im Nachgang stellen wir Ihnen noche ein paar Fragen zu Ihrer Person und Sie haben die Möglichkeit, 
+      Im Nachgang stellen wir Ihnen noch ein paar Fragen zu Ihrer Person und Sie haben die Möglichkeit, 
       uns Feedback zu geben. Hierbei sind alle Angaben anonym und es wird zu keinem Zeitpunkt nach 
-      Ihrem Namen oder Kontaktadresse gefragt.
+      Ihrem Namen oder Ihrer Kontaktadresse gefragt.
       <br />
       <br />
-      Mit Klick auf Next starten Sie die Studie.
+      Mit Klick auf <b>Next</b> starten Sie die Studie.
     </InstructionScreen>
 
 
