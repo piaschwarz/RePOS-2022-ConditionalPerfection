@@ -142,8 +142,16 @@
 // Load data from csv files as javascript arrays with objects
 //import test_filler_items_A from '../trials/test_filler_items_A_OLD.csv'; //for test purposes
 //import test_filler_items_B from '../trials/test_filler_items_B_OLD.csv'; //for test purposes
-import test_filler_items_A from '../trials/test_filler_items_A.csv';
-import test_filler_items_B from '../trials/test_filler_items_B.csv';
+//import test_filler_items_A from '../trials/test_filler_items_A.csv';
+//import test_filler_items_B from '../trials/test_filler_items_B.csv';
+import test_filler_items_A_1 from '../trials/test_filler_items_A_1.csv';
+import test_filler_items_A_2 from '../trials/test_filler_items_A_2.csv';
+import test_filler_items_A_3 from '../trials/test_filler_items_A_3.csv';
+import test_filler_items_A_4 from '../trials/test_filler_items_A_4.csv';
+import test_filler_items_B_1 from '../trials/test_filler_items_B_1.csv';
+import test_filler_items_B_2 from '../trials/test_filler_items_B_2.csv';
+import test_filler_items_B_3 from '../trials/test_filler_items_B_3.csv';
+import test_filler_items_B_4 from '../trials/test_filler_items_B_4.csv';
 import _ from 'lodash';
 
 var startTime;
@@ -153,7 +161,11 @@ export default {
   name: 'App',
   data() {
     return {
-      test_filler_items: _.shuffle(_.sample([test_filler_items_A, test_filler_items_B])),
+      //test_filler_items: _.shuffle(_.sample([test_filler_items_A, test_filler_items_B])),
+      test_filler_items: _.sample([test_filler_items_A_1, test_filler_items_A_2, 
+                                            test_filler_items_A_3, test_filler_items_A_4,
+                                            test_filler_items_B_1, test_filler_items_B_2,
+                                            test_filler_items_B_3, test_filler_items_B_4]),
       startTime,
       endTime,
       // Expose lodash.range to template above
