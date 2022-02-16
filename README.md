@@ -6,4 +6,4 @@ This is a replication study of the paper about Conditional Perfection of [Farr, 
 
 pi.schwarz@student.uni-tuebingen.de
 
-miriam.segient@student.uni-tuebingen.de
+miriam.segiet@student.uni-tuebingen.de
