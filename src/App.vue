@@ -24,7 +24,7 @@
       <br />
       <br />
       Im Nachgang stellen wir Ihnen noch ein paar Fragen zu Ihrer Person und Sie haben die Möglichkeit, 
-      uns Feedback zu geben. Hierbei sind alle Angaben anonym und es wird zu keinem Zeitpunkt nach 
+      uns Feedback zu geben. Hierbei sind alle Angaben freiwillig und anonym und es wird zu keinem Zeitpunkt nach 
       Ihrem Namen oder Ihrer Kontaktadresse gefragt.
       <br />
       <br />
@@ -90,7 +90,7 @@
 
     <Screen :title="'Zusätzliche Information'">
       <p>Nun stellen wir Ihnen noch Fragen zu Ihrer Person.<br>
-        Alle Angaben sind optional, helfen uns aber beim Auswerten der Ergebnisse.
+        Alle Angaben sind freiwillig, helfen uns aber beim Auswerten der Ergebnisse.
       </p>
       <br>
       <div>
@@ -124,16 +124,16 @@
       </div>
       <br />
       <button @click="$magpie.addExpData({
-          german_native: $magpie.measurements.german_native,
-          knows_pragmatics: $magpie.measurements.knowledge_pragmatics,
-          knows_logic: $magpie.measurements.knowledge_logic,
-          comments: $magpie.measurements.comment
+          german_native: ($magpie.measurements.german_native === undefined ? 'NA' : $magpie.measurements.german_native),
+          knows_pragmatics: ($magpie.measurements.knowledge_pragmatics === undefined ? 'NA' : $magpie.measurements.knowledge_pragmatics),
+          knows_logic: ($magpie.measurements.knowledge_logic  === undefined ? 'NA' : $magpie.measurements.knowledge_logic),
+          comments: ($magpie.measurements.comment === undefined ? 'NA' : $magpie.measurements.comment)
         }); $magpie.nextScreen()">Befragung abschließen</button>
     </Screen>
 
     <!-- While developing your experiment, using the DebugResults screen is fine,
       once you're going live, you can use the <SubmitResults> screen to automatically send your experimental data to the server. -->
-    <!--<DebugResultsScreen /> -->
+    <!-- <DebugResultsScreen /> -->
     <SubmitResultsScreen />
   </Experiment>
 </template>
