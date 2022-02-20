@@ -45,9 +45,9 @@ def exclude_participants(filename, column_names):
             # we want to exclude if the submission id is the same
             else:
                 # we want to eliminate participants according to the following conditions:
-                #   1. they know either logic or pragmatics
-                #   2. they answered at least 3 fillers incorrectly
-                #   3. they responded too fast (< 10s)
+                #   1. they know either logic or pragmatics             PIA: or are not German native speakers -> exclude complete participant
+                #   2. they answered at least 3 fillers incorrectly     PIA: exclude complete participant
+                #   3. they responded too fast (< 10s)                  PIA: exclude only the item, not complete participant
                 # TODO: did I forget about something?
 
                 # 1. check whether answer to either 'knows_logic' or 'knows_pragmatics' is 'Ja'
