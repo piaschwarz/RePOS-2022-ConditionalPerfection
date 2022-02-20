@@ -68,11 +68,11 @@ def exclude_participants(filename, column_names):
                         excludes.add(str(submission_id)+" fillers")
                         filler_count = 0
 
-                # 3. check response time < 10000 (10s) - get difference as absolute number
+                # 3. check response time < 10000 (10s) - get difference as absolute number      PIA: response_time and stopwatch_ms should be added, not subtracted
                 if abs(int(row[column_names.index('response_time')]) - int(row[column_names.index('stopwatch_ms')])) < \
                         10000:
                     time_count += 1
-                    # if 5 is reached, add participant with note and reset time_count
+                    # if 5 is reached, add participant with note and reset time_count           PIA: I would not wait till 5 but exclude only single item if < 10s
                     # TODO: NOTE: I set a limit of 5 for the test phase, this can be adjusted
                     if time_count == 5:
                         excludes.add(str(submission_id)+" too fast")
