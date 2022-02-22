@@ -44,8 +44,6 @@ def exclude_participants(filename, column_names):
             else:
                 # we want to eliminate participants according to the following conditions:
                 #   1. they know logic or pragmatics or are no German native speaker -> exclude complete participant
-                # TODO: What happens if there is no value for the above information?
-
                 #   2. they answered at least 3 fillers incorrectly -> exclude complete participant
                 #   3. they responded too fast (< 10s) -> exclude only the item, not the participant
 
@@ -77,17 +75,21 @@ def exclude_participants(filename, column_names):
         return sorted(excludes_short), sorted(line_number)
 
 
-def write_output(new_file, original_file, excludes):
+def write_output(new_file, original_file, exclude_file, excludes):
     """
     create a new file with the participants remaining after the exclude
     :param new_file: new csv file to write output to
     :param original_file: original data containing all participants
+    :param exclude_file: the file to store the excluded participants/rows for further checks
     :param excludes: the output of exclude_participants()
     """
     # open both files
     original = open(original_file, 'r')
+    exclude_rows = open(exclude_file, 'w')
     with open(new_file, 'w') as copied:
         writer = csv.writer(copied, delimiter=",")
+        excluded = csv.writer(exclude_rows, delimiter=",")
+        excluded.writerow(get_colum_names(original_file))  # add header
         reader = csv.reader(original, delimiter=",")
         # iterate over rows and get line number for record
         for num, row in enumerate(reader):
@@ -95,8 +97,11 @@ def write_output(new_file, original_file, excludes):
             # and the id is not in excludes
             if num not in excludes[1] and not any(id in excludes[0] for id in row):
                 writer.writerow(row)
+            else:
+                excluded.writerow(row)
 
 
 if __name__ == '__main__':
-    print(write_output('new_file.csv', 'test.csv',
+    print(write_output('new_file.csv', 'test.csv', 'excludes.csv',
                        exclude_participants('test.csv', get_colum_names('test.csv'))))
+
