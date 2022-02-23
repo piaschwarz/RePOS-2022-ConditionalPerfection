@@ -18,9 +18,12 @@ p = antecedent, q = consequent
 question was either of the type what-if-p or when-q
 answer to either question was a conditional of the form “If p, q”
 
+
 "Conditional Perfection occurs significantly more often if the antecedent of the conditional is focused compared to the non-focused case"
 => In the TVJT we always deal with the focused case, and never with non-focused?? 
    Or is focus on antecedent = focused case while focus on consequent ist non-focus case?
+
+"If focus influences CP we expect that subjects rate the conditional answer more often as insufficient in the when-q condition than in the what-if-p condition." (p.233)
 
 what-if-p: focus on consequent (non-focus case) -> "What if I sell an eel?"
 when-q	 : focus on antecedent (focused case) -> "When do I get 2.50 Euros?"
