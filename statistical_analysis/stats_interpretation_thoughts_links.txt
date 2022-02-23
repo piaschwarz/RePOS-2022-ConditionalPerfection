@@ -1,0 +1,91 @@
+Statistical Analysis
+
+
+Participant Exclusion:
+
+-German non native (complete participant)
+-knows pragmatics (complete participant)
+-knows logic (complete participant)
+->do not exclude when there is an NA for logic/pragmatics/native speaker
+-answers 3 or more fillers wrong (complete participant)
+-test items that are responded too fast, use threshold (exclude only test item, not whole participant)
+
+
+---
+
+p = antecedent, q = consequent
+
+question was either of the type what-if-p or when-q
+answer to either question was a conditional of the form “If p, q”
+
+"Conditional Perfection occurs significantly more often if the antecedent of the conditional is focused compared to the non-focused case"
+=> In the TVJT we always deal with the focused case, and never with non-focused?? 
+   Or is focus on antecedent = focused case while focus on consequent ist non-focus case?
+
+what-if-p: focus on consequent (non-focus case) -> "What if I sell an eel?"
+when-q	 : focus on antecedent (focused case) -> "When do I get 2.50 Euros?"
+answer	 : 		       -> "If you sell an eel you get 2.50 Euros."
+CP = assuming: "only if person sells an eel, they get 2.50 Euros."
+
+TVJT: True or False (negative or positive)
+
+when-q -> false (as only one possibility was given) -> signals CP : 56.6%
+what-if-p -> false -> signals CP : 11.1%
+
+=> What does it mean to to look at an effect over subjects and over items?
+"The effect was again significant over subjects, F(1,32) = 58.175, p < 0.001, as well as over items, F(1,5) = 50.845, p < 0.001."
+
+
+
+---
+
+Logistic Regression
+-------------------
+
+We want to know whether or not the focus (i.e. the question type what-if/when-q) influences the rise of the CP (i.e. answering with "false")
+
+Independent var (categorical)	: when-q (focus) or what-if (non-focus)
+Dependent/Response var (binary in logReg): answer of "true" or "false" in test item -> false = CP arises; true = CP does not arise
+
+
+LINKS:
+
+https://heds.nz/posts/logistic-regression-python/
+
+https://www.statology.org/logistic-regression/
+
+https://www.statology.org/assumptions-of-logistic-regression/
+
+https://www.statology.org/how-to-report-logistic-regression-results/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/
+
+
+
+
+
+additional (but less useful) links:
+
+https://www.statology.org/logistic-regression-python/
+
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+
+https://careerfoundry.com/en/blog/data-analytics/what-is-logistic-regression/
+
+https://www.statsmodels.org/stable/discretemod.html
+
+https://medium.com/analytics-vidhya/how-to-interpret-the-logistic-regression-model-with-python-2bacfb50e223
+
+
+
+
+
+
+
+
+
+
+
+
+
+
