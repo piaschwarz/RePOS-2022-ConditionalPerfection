@@ -48,9 +48,6 @@ fit_brms = brm(
   data = df_final %>% 
     # 'reorder' answer categories (making 'Nein' the target to be explained)
     mutate(response = response == 'Nein'),
-  # weakly informative priors (slightly conservative)
-  #   for `class = 'b'` (i.e., all slopes)
-  prior = prior(student_t(1, 0, 2),  class = 'b'),
   # also collect samples from the prior (for point-valued testing)
   sample_prior = 'yes',
   # take more than the usual samples (for numerical stability of testing)
