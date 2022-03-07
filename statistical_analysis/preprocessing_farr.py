@@ -84,7 +84,9 @@ def exclude_participants(filename, column_names):
     print(len(excludes_short), "complete participant(s) was/were excluded\n\t",
           logic/12, "participant(s) was/were excluded due to knowing logic\n\t",
           prag/12, "participant(s) was/were excluded due to knowing pragmatics\n\t",
-          ger/12, "participant(s) was/were no German native speaker(s)\n", len(line_number), "items were excludes")
+          ger/12, "participant(s) was/were no German native speaker(s)\n",
+          filler/12, "participant(s) did not answer more than 3 fillers correctly\n",
+          len(line_number), "items were excludes")
     return sorted(excludes_short), sorted(line_number)
 
 
@@ -116,6 +118,8 @@ def write_output(new_file, original_file, exclude_file, excludes):
 
 
 if __name__ == '__main__':
-    print(write_output('new_file.csv', 'test.csv', 'excludes.csv',
-                       exclude_participants('test.csv', get_colum_names('test.csv'))))
+    """print(write_output('new_file.csv', 'test.csv', 'excludes.csv',
+                       exclude_participants('test.csv', get_colum_names('test.csv'))))"""
+
+    print(exclude_participants('test.csv', get_colum_names('test.csv')))
 
