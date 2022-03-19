@@ -1,0 +1,793 @@
+submission_id,comments,experiment_duration,experiment_end_time,experiment_start_time,german_native,group,item_answer_type,item_number,item_type,knows_logic,knows_pragmatics,options,qud,question,response,response_time,stopwatch_ms,trial_number
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,whenq,1,test,Ja,Ja,Ja|Nein,,,Ja,73513,133952,1
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,false,3,fillerCond,Ja,Ja,Ja|Nein,,,Nein,12963,88864,2
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,whatifp,4,test,Ja,Ja,Ja|Nein,,,Nein,15766,62902,3
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,false,1,fillerCond,Ja,Ja,Ja|Nein,,,Nein,11569,76803,4
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,whatifp,2,test,Ja,Ja,Ja|Nein,,,Ja,8376,78107,5
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,true,3,fillerExhaust,Ja,Ja,Ja|Nein,,,Ja,2080,92638,6
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,false,2,fillerExhaust,Ja,Ja,Ja|Nein,,,Nein,29558,80079,7
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,whenq,5,test,Ja,Ja,Ja|Nein,,,Nein,28003,86368,8
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,true,2,fillerCond,Ja,Ja,Ja|Nein,,,Ja,11718,56388,9
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,whenq,3,test,Ja,Ja,Ja|Nein,,,Nein,31848,33884,10
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,true,1,fillerExhaust,Ja,Ja,Ja|Nein,,,Ja,6735,55533,11
+3375,"Es war von vornherein nicht klar, dass der zu lesende Text jeweils bis zum Schluss zur Verfügung ist.",1540044,1647513807267,1647512267223,Ja,B,whatifp,6,test,Ja,Ja,Ja|Nein,,,Nein,34610,130985,12
+3374,NA,742649,1647504678083,1647503935434,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,14212,42922,1
+3374,NA,742649,1647504678083,1647503935434,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1948,40321,2
+3374,NA,742649,1647504678083,1647503935434,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,11868,43450,3
+3374,NA,742649,1647504678083,1647503935434,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,3021,118072,4
+3374,NA,742649,1647504678083,1647503935434,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2981,43505,5
+3374,NA,742649,1647504678083,1647503935434,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,9358,50345,6
+3374,NA,742649,1647504678083,1647503935434,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1206,64945,7
+3374,NA,742649,1647504678083,1647503935434,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,3324,29290,8
+3374,NA,742649,1647504678083,1647503935434,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1446,64161,9
+3374,NA,742649,1647504678083,1647503935434,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1126,40473,10
+3374,NA,742649,1647504678083,1647503935434,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,1453,28607,11
+3374,NA,742649,1647504678083,1647503935434,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,3615,33047,12
+3373,NA,640835,1647460694324,1647460053489,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Nein,24593,58528,1
+3373,NA,640835,1647460694324,1647460053489,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,6505,46560,2
+3373,NA,640835,1647460694324,1647460053489,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,1947,47406,3
+3373,NA,640835,1647460694324,1647460053489,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,4394,47943,4
+3373,NA,640835,1647460694324,1647460053489,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,7873,34606,5
+3373,NA,640835,1647460694324,1647460053489,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1787,39120,6
+3373,NA,640835,1647460694324,1647460053489,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1224,41594,7
+3373,NA,640835,1647460694324,1647460053489,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,1349,32923,8
+3373,NA,640835,1647460694324,1647460053489,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1970,35050,9
+3373,NA,640835,1647460694324,1647460053489,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,1418,32145,10
+3373,NA,640835,1647460694324,1647460053489,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1601,33766,11
+3373,NA,640835,1647460694324,1647460053489,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,1247,41707,12
+3372,NA,692027,1647286963654,1647286271627,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,19823,58784,1
+3372,NA,692027,1647286963654,1647286271627,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,32606,30813,2
+3372,NA,692027,1647286963654,1647286271627,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,2362,39961,3
+3372,NA,692027,1647286963654,1647286271627,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,32032,49933,4
+3372,NA,692027,1647286963654,1647286271627,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,5945,22577,5
+3372,NA,692027,1647286963654,1647286271627,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,18225,44608,6
+3372,NA,692027,1647286963654,1647286271627,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,27178,11213,7
+3372,NA,692027,1647286963654,1647286271627,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,64667,10185,8
+3372,NA,692027,1647286963654,1647286271627,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1459,36492,9
+3372,NA,692027,1647286963654,1647286271627,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,34825,8993,10
+3372,NA,692027,1647286963654,1647286271627,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,24902,4837,11
+3372,NA,692027,1647286963654,1647286271627,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,23155,4176,12
+3371,NA,342972,1647260636872,1647260293900,Ja,A,whenq,6,test,Ja,Ja,Ja|Nein,,,Ja,1814,19240,1
+3371,NA,342972,1647260636872,1647260293900,Ja,A,true,1,fillerCond,Ja,Ja,Ja|Nein,,,Ja,2931,20924,2
+3371,NA,342972,1647260636872,1647260293900,Ja,A,whatifp,1,test,Ja,Ja,Ja|Nein,,,Ja,1481,16006,3
+3371,NA,342972,1647260636872,1647260293900,Ja,A,false,3,fillerExhaust,Ja,Ja,Ja|Nein,,,Nein,6249,16089,4
+3371,NA,342972,1647260636872,1647260293900,Ja,A,whenq,2,test,Ja,Ja,Ja|Nein,,,Ja,1699,12721,5
+3371,NA,342972,1647260636872,1647260293900,Ja,A,false,2,fillerCond,Ja,Ja,Ja|Nein,,,Nein,5250,20790,6
+3371,NA,342972,1647260636872,1647260293900,Ja,A,true,3,fillerCond,Ja,Ja,Ja|Nein,,,Ja,4316,16239,7
+3371,NA,342972,1647260636872,1647260293900,Ja,A,whatifp,5,test,Ja,Ja,Ja|Nein,,,Ja,2414,12038,8
+3371,NA,342972,1647260636872,1647260293900,Ja,A,false,1,fillerExhaust,Ja,Ja,Ja|Nein,,,Nein,3266,19289,9
+3371,NA,342972,1647260636872,1647260293900,Ja,A,whatifp,3,test,Ja,Ja,Ja|Nein,,,Ja,2699,24491,10
+3371,NA,342972,1647260636872,1647260293900,Ja,A,true,2,fillerExhaust,Ja,Ja,Ja|Nein,,,Ja,6700,27443,11
+3371,NA,342972,1647260636872,1647260293900,Ja,A,whenq,4,test,Ja,Ja,Ja|Nein,,,Nein,13802,15990,12
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,false,2,fillerExhaust,Ja,Nein,Ja|Nein,,,Nein,2107,33747,1
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,whenq,5,test,Ja,Nein,Ja|Nein,,,Ja,5363,61019,2
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,true,2,fillerCond,Ja,Nein,Ja|Nein,,,Ja,1248,64651,3
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,whenq,3,test,Ja,Nein,Ja|Nein,,,Nein,31786,56666,4
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,true,1,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,2778,91506,5
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,whatifp,6,test,Ja,Nein,Ja|Nein,,,Nein,12467,51177,6
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,false,1,fillerCond,Ja,Nein,Ja|Nein,,,Nein,2043,45937,7
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,whatifp,2,test,Ja,Nein,Ja|Nein,,,Ja,9516,25130,8
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,true,3,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,2643,80954,9
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,whenq,1,test,Ja,Nein,Ja|Nein,,,Nein,5628,87930,10
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,false,3,fillerCond,Ja,Nein,Ja|Nein,,,Nein,1562,50553,11
+3369,"Hallo Pia, Gebo hier:
+Jetzt weiß ich ja nicht was ihr mit dem Fragebogen auswerten/untersuchen wollt. Ich fand die Anweisung/Anleitung zu unklar. Die meisten der Antworten waren zwar ""wahr"" aber nicht ""die vollständige Wahrheit"" ... und jetzt war aber nicht klar angewiesen auf welchen dieser beiden Fälle der Button ""Ja"" und ""Nein"" sich nun bezieht. Das ist ggf. ja Absicht, falls ihr Umgang zwischen Logik und Pragmatik o.ä. untersuchen wollt... ... aber ich glaube trotzdem, dass ihr bei den Fragen weniger eine entsprechende Denkweise/Verständnis untersucht und mehr wie die Person die Anweisung auffasst. ... konkret in meinem Fall: ich habe viele dieser Fragen quasi zufällig beantwortet, da ich schlichtweg nicht wusste was ihr wollt... ... oder umgekehrt gesagt, würde ich die gleichen Text/Frage nochmal lesen, ich könnte nicht mehr sagen wie ich darauf geantwortet habe... (und das liegt nicht am Verständnis des Textes ;))
+
+Weiß nicht ob ich das hier jetzt klar formuliert habe. Sonst falls weitere Rückmeldung erwünscht, einfach nochmal bei mir melden.
+
+Schöne Grüße Gebo",1906116,1647166639160,1647164733044,Nein,B,whatifp,4,test,Ja,Nein,Ja|Nein,,,Nein,6060,34626,12
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,whenq,6,test,Ja,Nein,Ja|Nein,,,Ja,28390,69024,1
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,true,1,fillerCond,Ja,Nein,Ja|Nein,,,Nein,296747,61842,2
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,whatifp,1,test,Ja,Nein,Ja|Nein,,,Ja,36573,96697,3
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,false,3,fillerExhaust,Ja,Nein,Ja|Nein,,,Nein,2957,53378,4
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,whenq,2,test,Ja,Nein,Ja|Nein,,,Nein,2828,53530,5
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,false,2,fillerCond,Ja,Nein,Ja|Nein,,,Nein,1652,71425,6
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,true,3,fillerCond,Ja,Nein,Ja|Nein,,,Ja,1653,40081,7
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,whatifp,5,test,Ja,Nein,Ja|Nein,,,Ja,2718,99402,8
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,false,1,fillerExhaust,Ja,Nein,Ja|Nein,,,Nein,2662,40145,9
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,whatifp,3,test,Ja,Nein,Ja|Nein,,,Ja,4301,57177,10
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,true,2,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,1742,77153,11
+3368,NA,1332134,1646990943760,1646989611626,Ja,A,whenq,4,test,Ja,Nein,Ja|Nein,,,Nein,2870,52377,12
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,33087,101062,1
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,25093,54139,2
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,39386,37715,3
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,57603,61213,4
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,36565,39050,5
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,85330,36398,6
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,76521,117669,7
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,14834,64569,8
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,33264,51262,9
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,25539,88497,10
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,3774,32005,11
+3367,War sehr schwierig zu beantorten. Die Frage ob die Antwort wahr ist war meiner Meinung nach nicht richtig gestellt. Es hätte heißen müssen ist die Antwort richtig. Denn meist war sie unvollständig.,1375578,1646990671883,1646989296305,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,19096,36950,12
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,51724,70864,1
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,13344,49667,2
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2471,41082,3
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,2589,58379,4
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1707,86045,5
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Nein,26615,68410,6
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,20025,155545,7
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,1261,50710,8
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2672,33867,9
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,1524,48881,10
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1538,40635,11
+3334,"Nur weil etwas ""wahr"" ist, ist es noch lange nicht vollständig. ",984467,1646948890345,1646947905878,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Ja,1892,50597,12
+3333,,446868,1646899325437,1646898878569,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,3779,32158,1
+3333,,446868,1646899325437,1646898878569,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,3750,23519,2
+3333,,446868,1646899325437,1646898878569,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1327,30024,3
+3333,,446868,1646899325437,1646898878569,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1025,29115,4
+3333,,446868,1646899325437,1646898878569,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,2397,29353,5
+3333,,446868,1646899325437,1646898878569,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1088,20303,6
+3333,,446868,1646899325437,1646898878569,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Nein,3114,26678,7
+3333,,446868,1646899325437,1646898878569,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1349,24737,8
+3333,,446868,1646899325437,1646898878569,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Nein,6142,34338,9
+3333,,446868,1646899325437,1646898878569,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,8663,29971,10
+3333,,446868,1646899325437,1646898878569,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2067,35341,11
+3333,,446868,1646899325437,1646898878569,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Ja,10203,28349,12
+3332,NA,957862,1646857007013,1646856049151,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,5392,91101,1
+3332,NA,957862,1646857007013,1646856049151,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,4388,50657,2
+3332,NA,957862,1646857007013,1646856049151,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,22148,53441,3
+3332,NA,957862,1646857007013,1646856049151,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,4901,44097,4
+3332,NA,957862,1646857007013,1646856049151,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,11540,57264,5
+3332,NA,957862,1646857007013,1646856049151,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,10628,37857,6
+3332,NA,957862,1646857007013,1646856049151,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,25756,53921,7
+3332,NA,957862,1646857007013,1646856049151,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,26741,49801,8
+3332,NA,957862,1646857007013,1646856049151,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Nein,106404,17993,9
+3332,NA,957862,1646857007013,1646856049151,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,56508,16865,10
+3332,NA,957862,1646857007013,1646856049151,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,19052,32729,11
+3332,NA,957862,1646857007013,1646856049151,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,28933,50168,12
+3331,NA,818457,1646838677094,1646837858637,Ja,B,whenq,1,test,Ja,Nein,Ja|Nein,,,Ja,10698,66997,1
+3331,NA,818457,1646838677094,1646837858637,Ja,B,false,3,fillerCond,Ja,Nein,Ja|Nein,,,Ja,27783,31509,2
+3331,NA,818457,1646838677094,1646837858637,Ja,B,whatifp,4,test,Ja,Nein,Ja|Nein,,,Ja,1251,29076,3
+3331,NA,818457,1646838677094,1646837858637,Ja,B,false,1,fillerCond,Ja,Nein,Ja|Nein,,,Ja,2444,54736,4
+3331,NA,818457,1646838677094,1646837858637,Ja,B,whatifp,2,test,Ja,Nein,Ja|Nein,,,Ja,3012,33462,5
+3331,NA,818457,1646838677094,1646837858637,Ja,B,true,3,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,2134,111162,6
+3331,NA,818457,1646838677094,1646837858637,Ja,B,false,2,fillerExhaust,Ja,Nein,Ja|Nein,,,Nein,1886,77338,7
+3331,NA,818457,1646838677094,1646837858637,Ja,B,whenq,5,test,Ja,Nein,Ja|Nein,,,Ja,1724,39196,8
+3331,NA,818457,1646838677094,1646837858637,Ja,B,true,2,fillerCond,Ja,Nein,Ja|Nein,,,Ja,23334,58528,9
+3331,NA,818457,1646838677094,1646837858637,Ja,B,whenq,3,test,Ja,Nein,Ja|Nein,,,Ja,1580,83226,10
+3331,NA,818457,1646838677094,1646837858637,Ja,B,true,1,fillerExhaust,Ja,Nein,Ja|Nein,,,Nein,1837,25708,11
+3331,NA,818457,1646838677094,1646837858637,Ja,B,whatifp,6,test,Ja,Nein,Ja|Nein,,,Ja,17491,46916,12
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,22395,60830,1
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Nein,14938,60352,2
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,5282,40116,3
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,2876,320506,4
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,999,34238,5
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,12254,32369,6
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,1084,73101,7
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1162,37126,8
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,23535,82251,9
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,5064,41053,10
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Nein,9984,46540,11
+3330,NA,1128398,1646754607075,1646753478677,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,923,30951,12
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,98082,65731,1
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,46141,67486,2
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Nein,24638,76882,3
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,62140,67692,4
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,10035,35680,5
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,896,67066,6
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,12905,44167,7
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Nein,40197,109549,8
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2452,51532,9
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,1550,76230,10
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1309,71652,11
+3329,"Ich hätte manchmal beides wählen können, je nach Interpretation. ",1340545,1646745385413,1646744044868,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,2851,41191,12
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,49070,92331,1
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,19382,60421,2
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Nein,4264,77298,3
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,919,44386,4
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,1029,58697,5
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,5800,73788,6
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,5044,32041,7
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,12034,46479,8
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1060,24662,9
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Nein,1136,51564,10
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1214023,616815,11
+3328,NA,5426790,1646741455271,1646736028481,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,1346,2859459,12
+3327,NA,75649,1646730346448,1646730270799,Ja,B,whenq,1,test,Ja,Nein,Ja|Nein,,,Ja,939,2601,1
+3327,NA,75649,1646730346448,1646730270799,Ja,B,false,3,fillerCond,Ja,Nein,Ja|Nein,,,Ja,746,2236,2
+3327,NA,75649,1646730346448,1646730270799,Ja,B,whatifp,4,test,Ja,Nein,Ja|Nein,,,Ja,1422,1655,3
+3327,NA,75649,1646730346448,1646730270799,Ja,B,false,1,fillerCond,Ja,Nein,Ja|Nein,,,Ja,786,1887,4
+3327,NA,75649,1646730346448,1646730270799,Ja,B,whatifp,2,test,Ja,Nein,Ja|Nein,,,Ja,1739,1805,5
+3327,NA,75649,1646730346448,1646730270799,Ja,B,true,3,fillerExhaust,Ja,Nein,Ja|Nein,,,Nein,3097,1545,6
+3327,NA,75649,1646730346448,1646730270799,Ja,B,false,2,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,3599,1609,7
+3327,NA,75649,1646730346448,1646730270799,Ja,B,whenq,5,test,Ja,Nein,Ja|Nein,,,Nein,2968,2073,8
+3327,NA,75649,1646730346448,1646730270799,Ja,B,true,2,fillerCond,Ja,Nein,Ja|Nein,,,Ja,4424,1545,9
+3327,NA,75649,1646730346448,1646730270799,Ja,B,whenq,3,test,Ja,Nein,Ja|Nein,,,Ja,3549,2199,10
+3327,NA,75649,1646730346448,1646730270799,Ja,B,true,1,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,10729,1365,11
+3327,NA,75649,1646730346448,1646730270799,Ja,B,whatifp,6,test,Ja,Nein,Ja|Nein,,,Ja,1641,1985,12
+3326,NA,525841,1646728084302,1646727558461,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,7030,35009,1
+3326,NA,525841,1646728084302,1646727558461,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,20248,40247,2
+3326,NA,525841,1646728084302,1646727558461,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2510,28643,3
+3326,NA,525841,1646728084302,1646727558461,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,4046,32181,4
+3326,NA,525841,1646728084302,1646727558461,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,6018,28228,5
+3326,NA,525841,1646728084302,1646727558461,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2125,29868,6
+3326,NA,525841,1646728084302,1646727558461,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,1977,38016,7
+3326,NA,525841,1646728084302,1646727558461,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,6119,38199,8
+3326,NA,525841,1646728084302,1646727558461,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,2223,34034,9
+3326,NA,525841,1646728084302,1646727558461,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,1220,32359,10
+3326,NA,525841,1646728084302,1646727558461,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2109,29625,11
+3326,NA,525841,1646728084302,1646727558461,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Ja,2495,39194,12
+3325,NA,396573,1646672658588,1646672262015,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2040,25148,1
+3325,NA,396573,1646672658588,1646672262015,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,5986,32554,2
+3325,NA,396573,1646672658588,1646672262015,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1934,21036,3
+3325,NA,396573,1646672658588,1646672262015,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,18856,32997,4
+3325,NA,396573,1646672658588,1646672262015,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1441,20921,5
+3325,NA,396573,1646672658588,1646672262015,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,2610,31359,6
+3325,NA,396573,1646672658588,1646672262015,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,13640,30142,7
+3325,NA,396573,1646672658588,1646672262015,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,985,19509,8
+3325,NA,396573,1646672658588,1646672262015,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1174,19403,9
+3325,NA,396573,1646672658588,1646672262015,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,1223,21519,10
+3325,NA,396573,1646672658588,1646672262015,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,967,14541,11
+3325,NA,396573,1646672658588,1646672262015,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,6106,31447,12
+3324,NA,734476,1646671604584,1646670870108,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,3921,58867,1
+3324,NA,734476,1646671604584,1646670870108,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,21551,60325,2
+3324,NA,734476,1646671604584,1646670870108,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,47066,34112,3
+3324,NA,734476,1646671604584,1646670870108,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,1927,51705,4
+3324,NA,734476,1646671604584,1646670870108,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2061,27426,5
+3324,NA,734476,1646671604584,1646670870108,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,11831,40027,6
+3324,NA,734476,1646671604584,1646670870108,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,10078,57642,7
+3324,NA,734476,1646671604584,1646670870108,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,8108,33956,8
+3324,NA,734476,1646671604584,1646670870108,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1087,22845,9
+3324,NA,734476,1646671604584,1646670870108,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,16802,78508,10
+3324,NA,734476,1646671604584,1646670870108,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1230,22190,11
+3324,NA,734476,1646671604584,1646670870108,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,10991,22349,12
+3323,NA,497431,1646671333656,1646670836225,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,8082,37929,1
+3323,NA,497431,1646671333656,1646670836225,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Nein,19166,26110,2
+3323,NA,497431,1646671333656,1646670836225,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1502,38848,3
+3323,NA,497431,1646671333656,1646670836225,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1224,30055,4
+3323,NA,497431,1646671333656,1646670836225,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,1042,37632,5
+3323,NA,497431,1646671333656,1646670836225,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2194,36121,6
+3323,NA,497431,1646671333656,1646670836225,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,1134,22166,7
+3323,NA,497431,1646671333656,1646670836225,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1113,30108,8
+3323,NA,497431,1646671333656,1646670836225,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Nein,2291,45745,9
+3323,NA,497431,1646671333656,1646670836225,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,1706,44028,10
+3323,NA,497431,1646671333656,1646670836225,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1312,22699,11
+3323,NA,497431,1646671333656,1646670836225,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Ja,1247,24154,12
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,4280,57047,1
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1589,27290,2
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,7080,23773,3
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,3059,43227,4
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,966,15530,5
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,7788,21802,6
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,8866,21454,7
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,2149,34021,8
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1590,22332,9
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,993,25734,10
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,6308,25617,11
+3322,"Ich fand die ersten Fragen schwer zu beantworten, da die Aussagen zwar der Wahrheit entsprachen, aber nur einen Teil der Wahrheit abdeckten. ",477685,1646667750203,1646667272518,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1057,22376,12
+3321,NA,858667,1646667002629,1646666143962,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,5213,38414,1
+3321,NA,858667,1646667002629,1646666143962,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,5089,39106,2
+3321,NA,858667,1646667002629,1646666143962,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,10899,39947,3
+3321,NA,858667,1646667002629,1646666143962,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,15600,47001,4
+3321,NA,858667,1646667002629,1646666143962,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,8947,37561,5
+3321,NA,858667,1646667002629,1646666143962,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,2370,41769,6
+3321,NA,858667,1646667002629,1646666143962,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1594,41576,7
+3321,NA,858667,1646667002629,1646666143962,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,4434,32015,8
+3321,NA,858667,1646667002629,1646666143962,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1925,38746,9
+3321,NA,858667,1646667002629,1646666143962,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,1963,304251,10
+3321,NA,858667,1646667002629,1646666143962,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1243,25953,11
+3321,NA,858667,1646667002629,1646666143962,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,2685,28805,12
+3320,NA,535485,1646664479273,1646663943788,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,12704,45268,1
+3320,NA,535485,1646664479273,1646663943788,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1072,23307,2
+3320,NA,535485,1646664479273,1646663943788,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,942,17911,3
+3320,NA,535485,1646664479273,1646663943788,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,4472,56006,4
+3320,NA,535485,1646664479273,1646663943788,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,1234,36862,5
+3320,NA,535485,1646664479273,1646663943788,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,751,34413,6
+3320,NA,535485,1646664479273,1646663943788,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,984,47508,7
+3320,NA,535485,1646664479273,1646663943788,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,818,47046,8
+3320,NA,535485,1646664479273,1646663943788,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1351,58493,9
+3320,NA,535485,1646664479273,1646663943788,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,710,29928,10
+3320,NA,535485,1646664479273,1646663943788,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,704,21076,11
+3320,NA,535485,1646664479273,1646663943788,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,826,30219,12
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,12063,39800,1
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,17705,31606,2
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,21253,22538,3
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,2982,20432,4
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,2165,21639,5
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2549,14754,6
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,14803,29049,7
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,7430,18975,8
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,3351,23686,9
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,15891,14252,10
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,6928,11116,11
+3319,"Unterlassung macht für mich Aussagen auch unwahr. In formaler Logik wäre das wahrscheinlich nicht so, aber da kenne ich mich nicht  wirklich aus. :)",662747,1646663950379,1646663287632,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,890,32469,12
+3318,NA,699525,1646663103673,1646662404148,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,39470,65187,1
+3318,NA,699525,1646663103673,1646662404148,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,4508,31522,2
+3318,NA,699525,1646663103673,1646662404148,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1371,44888,3
+3318,NA,699525,1646663103673,1646662404148,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,5314,37987,4
+3318,NA,699525,1646663103673,1646662404148,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1363,37738,5
+3318,NA,699525,1646663103673,1646662404148,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Nein,1476,73478,6
+3318,NA,699525,1646663103673,1646662404148,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1205,23794,7
+3318,NA,699525,1646663103673,1646662404148,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,726,40896,8
+3318,NA,699525,1646663103673,1646662404148,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,3070,43991,9
+3318,NA,699525,1646663103673,1646662404148,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Nein,751,51405,10
+3318,NA,699525,1646663103673,1646662404148,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1099,39824,11
+3318,NA,699525,1646663103673,1646662404148,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,8284,27981,12
+3317,NA,747079,1646661783827,1646661036748,Nein,B,false,2,fillerExhaust,Ja,Nein,Ja|Nein,,,Nein,4176,36648,1
+3317,NA,747079,1646661783827,1646661036748,Nein,B,whenq,5,test,Ja,Nein,Ja|Nein,,,Ja,3927,77152,2
+3317,NA,747079,1646661783827,1646661036748,Nein,B,true,2,fillerCond,Ja,Nein,Ja|Nein,,,Ja,34392,33883,3
+3317,NA,747079,1646661783827,1646661036748,Nein,B,whenq,3,test,Ja,Nein,Ja|Nein,,,Ja,4482,34904,4
+3317,NA,747079,1646661783827,1646661036748,Nein,B,true,1,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,1589,135985,5
+3317,NA,747079,1646661783827,1646661036748,Nein,B,whatifp,6,test,Ja,Nein,Ja|Nein,,,Ja,3326,32007,6
+3317,NA,747079,1646661783827,1646661036748,Nein,B,false,1,fillerCond,Ja,Nein,Ja|Nein,,,Nein,1810,33358,7
+3317,NA,747079,1646661783827,1646661036748,Nein,B,whatifp,2,test,Ja,Nein,Ja|Nein,,,Ja,1357,33148,8
+3317,NA,747079,1646661783827,1646661036748,Nein,B,true,3,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,939,31502,9
+3317,NA,747079,1646661783827,1646661036748,Nein,B,whenq,1,test,Ja,Nein,Ja|Nein,,,Ja,4840,40270,10
+3317,NA,747079,1646661783827,1646661036748,Nein,B,false,3,fillerCond,Ja,Nein,Ja|Nein,,,Nein,786,28341,11
+3317,NA,747079,1646661783827,1646661036748,Nein,B,whatifp,4,test,Ja,Nein,Ja|Nein,,,Ja,798,95882,12
+3316,NA,785259,1646658703422,1646657918163,Ja,B,whenq,1,test,NA,NA,Ja|Nein,,,Nein,26600,51005,1
+3316,NA,785259,1646658703422,1646657918163,Ja,B,false,3,fillerCond,NA,NA,Ja|Nein,,,Nein,6514,40400,2
+3316,NA,785259,1646658703422,1646657918163,Ja,B,whatifp,4,test,NA,NA,Ja|Nein,,,Ja,1344,35275,3
+3316,NA,785259,1646658703422,1646657918163,Ja,B,false,1,fillerCond,NA,NA,Ja|Nein,,,Nein,1687,52555,4
+3316,NA,785259,1646658703422,1646657918163,Ja,B,whatifp,2,test,NA,NA,Ja|Nein,,,Ja,803,26195,5
+3316,NA,785259,1646658703422,1646657918163,Ja,B,true,3,fillerExhaust,NA,NA,Ja|Nein,,,Ja,2045,41505,6
+3316,NA,785259,1646658703422,1646657918163,Ja,B,false,2,fillerExhaust,NA,NA,Ja|Nein,,,Nein,970,27902,7
+3316,NA,785259,1646658703422,1646657918163,Ja,B,whenq,5,test,NA,NA,Ja|Nein,,,Nein,4984,172905,8
+3316,NA,785259,1646658703422,1646657918163,Ja,B,true,2,fillerCond,NA,NA,Ja|Nein,,,Ja,945,30546,9
+3316,NA,785259,1646658703422,1646657918163,Ja,B,whenq,3,test,NA,NA,Ja|Nein,,,Nein,1134,38004,10
+3316,NA,785259,1646658703422,1646657918163,Ja,B,true,1,fillerExhaust,NA,NA,Ja|Nein,,,Ja,1151,25819,11
+3316,NA,785259,1646658703422,1646657918163,Ja,B,whatifp,6,test,NA,NA,Ja|Nein,,,Nein,1246,44577,12
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,11946,16806,1
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,3634,24522,2
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1455,17140,3
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2174,20897,4
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,1137,21764,5
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2173,36912,6
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,7951,25082,7
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1508,22722,8
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,1521,32067,9
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,5790,33902,10
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1485,21377,11
+3315,"Befragung sollte mobil beantwortet werden können. Zeitstrahl wäre hilfreich, um zu sehen, wie viele Fragen noch kommen.",817003,1646657771411,1646656954408,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,3948,18935,12
+3314,NA,948015,1646655673202,1646654725187,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,19363,116813,1
+3314,NA,948015,1646655673202,1646654725187,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,2293,28993,2
+3314,NA,948015,1646655673202,1646654725187,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2116,46146,3
+3314,NA,948015,1646655673202,1646654725187,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,1693,161857,4
+3314,NA,948015,1646655673202,1646654725187,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1966,74513,5
+3314,NA,948015,1646655673202,1646654725187,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,10253,22585,6
+3314,NA,948015,1646655673202,1646654725187,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,2437,261697,7
+3314,NA,948015,1646655673202,1646654725187,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1023,35281,8
+3314,NA,948015,1646655673202,1646654725187,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,1589,32905,9
+3314,NA,948015,1646655673202,1646654725187,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2262,23425,10
+3314,NA,948015,1646655673202,1646654725187,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,2702,24433,11
+3314,NA,948015,1646655673202,1646654725187,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1262,24169,12
+3313,NA,471720,1646641354241,1646640882521,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,9643,39600,1
+3313,NA,471720,1646641354241,1646640882521,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,3147,23616,2
+3313,NA,471720,1646641354241,1646640882521,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1960,39965,3
+3313,NA,471720,1646641354241,1646640882521,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Nein,12118,29724,4
+3313,NA,471720,1646641354241,1646640882521,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1850,36269,5
+3313,NA,471720,1646641354241,1646640882521,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Nein,2658,27941,6
+3313,NA,471720,1646641354241,1646640882521,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,10294,17081,7
+3313,NA,471720,1646641354241,1646640882521,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,1190,38004,8
+3313,NA,471720,1646641354241,1646640882521,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,4911,23084,9
+3313,NA,471720,1646641354241,1646640882521,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,962,37282,10
+3313,NA,471720,1646641354241,1646640882521,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1673,24868,11
+3313,NA,471720,1646641354241,1646640882521,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Ja,1024,20417,12
+3312,NA,597522,1646638612887,1646638015365,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,11619,49101,1
+3312,NA,597522,1646638612887,1646638015365,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,8357,42289,2
+3312,NA,597522,1646638612887,1646638015365,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,7661,40385,3
+3312,NA,597522,1646638612887,1646638015365,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,9933,34753,4
+3312,NA,597522,1646638612887,1646638015365,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1340,41873,5
+3312,NA,597522,1646638612887,1646638015365,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,8550,33281,6
+3312,NA,597522,1646638612887,1646638015365,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,6740,46961,7
+3312,NA,597522,1646638612887,1646638015365,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,2557,19472,8
+3312,NA,597522,1646638612887,1646638015365,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,6757,38673,9
+3312,NA,597522,1646638612887,1646638015365,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,1476,38553,10
+3312,NA,597522,1646638612887,1646638015365,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,3118,33993,11
+3312,NA,597522,1646638612887,1646638015365,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,3230,30096,12
+3311,NA,601211,1646637879872,1646637278661,Nein,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,9404,27550,1
+3311,NA,601211,1646637879872,1646637278661,Nein,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Nein,4146,29665,2
+3311,NA,601211,1646637879872,1646637278661,Nein,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,3372,42327,3
+3311,NA,601211,1646637879872,1646637278661,Nein,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,8890,73477,4
+3311,NA,601211,1646637879872,1646637278661,Nein,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,881,22224,5
+3311,NA,601211,1646637879872,1646637278661,Nein,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,2215,205394,6
+3311,NA,601211,1646637879872,1646637278661,Nein,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,2655,24331,7
+3311,NA,601211,1646637879872,1646637278661,Nein,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,648,24539,8
+3311,NA,601211,1646637879872,1646637278661,Nein,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,1005,26528,9
+3311,NA,601211,1646637879872,1646637278661,Nein,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,669,19722,10
+3311,NA,601211,1646637879872,1646637278661,Nein,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,1377,17365,11
+3311,NA,601211,1646637879872,1646637278661,Nein,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,536,21033,12
+3310,NA,425219,1646595048893,1646594623674,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2297,31634,1
+3310,NA,425219,1646595048893,1646594623674,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,3333,28763,2
+3310,NA,425219,1646595048893,1646594623674,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1820,23285,3
+3310,NA,425219,1646595048893,1646594623674,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,2149,25389,4
+3310,NA,425219,1646595048893,1646594623674,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1116,30282,5
+3310,NA,425219,1646595048893,1646594623674,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,1664,34652,6
+3310,NA,425219,1646595048893,1646594623674,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1433,27880,7
+3310,NA,425219,1646595048893,1646594623674,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,5011,20511,8
+3310,NA,425219,1646595048893,1646594623674,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1239,22419,9
+3310,NA,425219,1646595048893,1646594623674,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,1083,38385,10
+3310,NA,425219,1646595048893,1646594623674,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1953,17869,11
+3310,NA,425219,1646595048893,1646594623674,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,1434,19850,12
+3309,NA,737094,1646590691759,1646589954665,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,12879,60600,1
+3309,NA,737094,1646590691759,1646589954665,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,1674,34454,2
+3309,NA,737094,1646590691759,1646589954665,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1485,45694,3
+3309,NA,737094,1646590691759,1646589954665,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,1697,79316,4
+3309,NA,737094,1646590691759,1646589954665,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1652,20732,5
+3309,NA,737094,1646590691759,1646589954665,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,1158,34933,6
+3309,NA,737094,1646590691759,1646589954665,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,900,76467,7
+3309,NA,737094,1646590691759,1646589954665,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1188,43354,8
+3309,NA,737094,1646590691759,1646589954665,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,853,39102,9
+3309,NA,737094,1646590691759,1646589954665,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,869,27924,10
+3309,NA,737094,1646590691759,1646589954665,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,4795,59712,11
+3309,NA,737094,1646590691759,1646589954665,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,24072,3209,12
+3308,NA,834251,1646589463573,1646588629322,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,14738,65377,1
+3308,NA,834251,1646589463573,1646588629322,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,4459,33731,2
+3308,NA,834251,1646589463573,1646588629322,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,7931,63909,3
+3308,NA,834251,1646589463573,1646588629322,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,4760,79219,4
+3308,NA,834251,1646589463573,1646588629322,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,2333,36129,5
+3308,NA,834251,1646589463573,1646588629322,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2708,36171,6
+3308,NA,834251,1646589463573,1646588629322,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,6675,55428,7
+3308,NA,834251,1646589463573,1646588629322,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,1297,79041,8
+3308,NA,834251,1646589463573,1646588629322,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1260,39310,9
+3308,NA,834251,1646589463573,1646588629322,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,1440,43856,10
+3308,NA,834251,1646589463573,1646588629322,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1966,45952,11
+3308,NA,834251,1646589463573,1646588629322,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,1472,71396,12
+3307,NA,658926,1646580598834,1646579939908,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,19010,69867,1
+3307,NA,658926,1646580598834,1646579939908,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,14465,37610,2
+3307,NA,658926,1646580598834,1646579939908,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,18543,40662,3
+3307,NA,658926,1646580598834,1646579939908,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,15158,35572,4
+3307,NA,658926,1646580598834,1646579939908,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,1532,31865,5
+3307,NA,658926,1646580598834,1646579939908,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,21609,36245,6
+3307,NA,658926,1646580598834,1646579939908,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,3821,20151,7
+3307,NA,658926,1646580598834,1646579939908,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,4964,39038,8
+3307,NA,658926,1646580598834,1646579939908,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1183,54988,9
+3307,NA,658926,1646580598834,1646579939908,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,1093,57122,10
+3307,NA,658926,1646580598834,1646579939908,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1410,33465,11
+3307,NA,658926,1646580598834,1646579939908,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,729,26037,12
+3306,NA,528466,1646580463312,1646579934846,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,17378,46136,1
+3306,NA,528466,1646580463312,1646579934846,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,47782,40112,2
+3306,NA,528466,1646580463312,1646579934846,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,1579,31110,3
+3306,NA,528466,1646580463312,1646579934846,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2715,24805,4
+3306,NA,528466,1646580463312,1646579934846,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,1698,18069,5
+3306,NA,528466,1646580463312,1646579934846,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1211,23492,6
+3306,NA,528466,1646580463312,1646579934846,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1162,19876,7
+3306,NA,528466,1646580463312,1646579934846,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Nein,1100,27582,8
+3306,NA,528466,1646580463312,1646579934846,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1948,28165,9
+3306,NA,528466,1646580463312,1646579934846,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,31911,28173,10
+3306,NA,528466,1646580463312,1646579934846,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,8077,23597,11
+3306,NA,528466,1646580463312,1646579934846,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,1836,34391,12
+3305,NA,541482,1646580387597,1646579846115,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,30848,62387,1
+3305,NA,541482,1646580387597,1646579846115,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2217,25056,2
+3305,NA,541482,1646580387597,1646579846115,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,2375,27687,3
+3305,NA,541482,1646580387597,1646579846115,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2308,30120,4
+3305,NA,541482,1646580387597,1646579846115,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,1339,29940,5
+3305,NA,541482,1646580387597,1646579846115,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1161,27117,6
+3305,NA,541482,1646580387597,1646579846115,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,5112,27754,7
+3305,NA,541482,1646580387597,1646579846115,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,2247,33631,8
+3305,NA,541482,1646580387597,1646579846115,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1502,27550,9
+3305,NA,541482,1646580387597,1646579846115,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,6768,34723,10
+3305,NA,541482,1646580387597,1646579846115,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2573,28840,11
+3305,NA,541482,1646580387597,1646579846115,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,3604,35570,12
+3304,NA,461399,1646572473451,1646572012052,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,16438,31180,1
+3304,NA,461399,1646572473451,1646572012052,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,4324,44328,2
+3304,NA,461399,1646572473451,1646572012052,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,5427,32680,3
+3304,NA,461399,1646572473451,1646572012052,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Nein,5966,34298,4
+3304,NA,461399,1646572473451,1646572012052,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1416,39015,5
+3304,NA,461399,1646572473451,1646572012052,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,8585,36272,6
+3304,NA,461399,1646572473451,1646572012052,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1256,22713,7
+3304,NA,461399,1646572473451,1646572012052,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,1050,36442,8
+3304,NA,461399,1646572473451,1646572012052,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,4722,19290,9
+3304,NA,461399,1646572473451,1646572012052,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,1483,26342,10
+3304,NA,461399,1646572473451,1646572012052,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1385,34359,11
+3304,NA,461399,1646572473451,1646572012052,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,1407,19539,12
+3303,NA,927079,1646568849169,1646567922090,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,10748,69895,1
+3303,NA,927079,1646568849169,1646567922090,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Nein,58940,47399,2
+3303,NA,927079,1646568849169,1646567922090,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,8145,37995,3
+3303,NA,927079,1646568849169,1646567922090,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,16579,59306,4
+3303,NA,927079,1646568849169,1646567922090,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,17980,53266,5
+3303,NA,927079,1646568849169,1646567922090,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,60852,34258,6
+3303,NA,927079,1646568849169,1646567922090,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,31077,56177,7
+3303,NA,927079,1646568849169,1646567922090,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,19869,25106,8
+3303,NA,927079,1646568849169,1646567922090,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,37950,16353,9
+3303,NA,927079,1646568849169,1646567922090,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,74934,22880,10
+3303,NA,927079,1646568849169,1646567922090,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,26038,25363,11
+3303,NA,927079,1646568849169,1646567922090,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,32692,28105,12
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,14059,79212,1
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,19608,44940,2
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,7882,83300,3
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,6440,67233,4
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,12190,128869,5
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,6870,69092,6
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,26042,53178,7
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,8309,73224,8
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,6274,56579,9
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,26973,90598,10
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2799,73273,11
+3302,die Aufgaben erinnern mich an Textaufgaben der Mathematik von meiner Grundschulzeit!,1289292,1646562503053,1646561213761,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,41866,84351,12
+3301,NA,928298,1646560088527,1646559160229,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Nein,10718,52325,1
+3301,NA,928298,1646560088527,1646559160229,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,22973,131232,2
+3301,NA,928298,1646560088527,1646559160229,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,1458,55006,3
+3301,NA,928298,1646560088527,1646559160229,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,3812,40019,4
+3301,NA,928298,1646560088527,1646559160229,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,1375,50102,5
+3301,NA,928298,1646560088527,1646559160229,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,8639,73143,6
+3301,NA,928298,1646560088527,1646559160229,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1885,46485,7
+3301,NA,928298,1646560088527,1646559160229,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,2831,71497,8
+3301,NA,928298,1646560088527,1646559160229,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,6131,35582,9
+3301,NA,928298,1646560088527,1646559160229,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,1310,66063,10
+3301,NA,928298,1646560088527,1646559160229,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1259,117927,11
+3301,NA,928298,1646560088527,1646559160229,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,1978,33515,12
+3300,NA,382633,1646559813233,1646559430600,Nein,B,whenq,1,test,NA,Nein,Ja|Nein,,,Nein,3058,46930,1
+3300,NA,382633,1646559813233,1646559430600,Nein,B,false,3,fillerCond,NA,Nein,Ja|Nein,,,Nein,2776,22118,2
+3300,NA,382633,1646559813233,1646559430600,Nein,B,whatifp,4,test,NA,Nein,Ja|Nein,,,Nein,1386,20927,3
+3300,NA,382633,1646559813233,1646559430600,Nein,B,false,1,fillerCond,NA,Nein,Ja|Nein,,,Nein,3366,29629,4
+3300,NA,382633,1646559813233,1646559430600,Nein,B,whatifp,2,test,NA,Nein,Ja|Nein,,,Ja,5032,20835,5
+3300,NA,382633,1646559813233,1646559430600,Nein,B,true,3,fillerExhaust,NA,Nein,Ja|Nein,,,Ja,907,37678,6
+3300,NA,382633,1646559813233,1646559430600,Nein,B,false,2,fillerExhaust,NA,Nein,Ja|Nein,,,Ja,895,21986,7
+3300,NA,382633,1646559813233,1646559430600,Nein,B,whenq,5,test,NA,Nein,Ja|Nein,,,Ja,1225,21971,8
+3300,NA,382633,1646559813233,1646559430600,Nein,B,true,2,fillerCond,NA,Nein,Ja|Nein,,,Ja,787,15518,9
+3300,NA,382633,1646559813233,1646559430600,Nein,B,whenq,3,test,NA,Nein,Ja|Nein,,,Ja,1085,30172,10
+3300,NA,382633,1646559813233,1646559430600,Nein,B,true,1,fillerExhaust,NA,Nein,Ja|Nein,,,Ja,1843,21943,11
+3300,NA,382633,1646559813233,1646559430600,Nein,B,whatifp,6,test,NA,Nein,Ja|Nein,,,Ja,6700,25672,12
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,7055,133399,1
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,5831,57646,2
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,9719,63898,3
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,60762,76004,4
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,7740,59631,5
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,42208,51610,6
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,13405,62909,7
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2910,54474,8
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,4492,117284,9
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,10549,53482,10
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Nein,7139,120409,11
+3299,NA,1128858,1646557881119,1646556752261,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1679,40465,12
+3298,NA,903657,1646556698409,1646555794752,Nein,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,82510,84947,1
+3298,NA,903657,1646556698409,1646555794752,Nein,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2492,53643,2
+3298,NA,903657,1646556698409,1646555794752,Nein,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,2673,48025,3
+3298,NA,903657,1646556698409,1646555794752,Nein,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1963,44353,4
+3298,NA,903657,1646556698409,1646555794752,Nein,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,1950,39265,5
+3298,NA,903657,1646556698409,1646555794752,Nein,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,18453,53560,6
+3298,NA,903657,1646556698409,1646555794752,Nein,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,10003,37800,7
+3298,NA,903657,1646556698409,1646555794752,Nein,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Nein,1699,49432,8
+3298,NA,903657,1646556698409,1646555794752,Nein,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,2036,46247,9
+3298,NA,903657,1646556698409,1646555794752,Nein,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,3972,55353,10
+3298,NA,903657,1646556698409,1646555794752,Nein,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,25445,90592,11
+3298,NA,903657,1646556698409,1646555794752,Nein,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Nein,1560,59085,12
+3297,NA,587543,1646556107266,1646555519723,Nein,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,31569,36679,1
+3297,NA,587543,1646556107266,1646555519723,Nein,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1463,36645,2
+3297,NA,587543,1646556107266,1646555519723,Nein,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,2325,27889,3
+3297,NA,587543,1646556107266,1646555519723,Nein,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,6092,60384,4
+3297,NA,587543,1646556107266,1646555519723,Nein,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,10489,29936,5
+3297,NA,587543,1646556107266,1646555519723,Nein,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1494,32701,6
+3297,NA,587543,1646556107266,1646555519723,Nein,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,979,25817,7
+3297,NA,587543,1646556107266,1646555519723,Nein,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,1270,25761,8
+3297,NA,587543,1646556107266,1646555519723,Nein,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1453,39765,9
+3297,NA,587543,1646556107266,1646555519723,Nein,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,17725,33025,10
+3297,NA,587543,1646556107266,1646555519723,Nein,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2620,51516,11
+3297,NA,587543,1646556107266,1646555519723,Nein,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,1270,23571,12
+3296,NA,909917,1646553255762,1646552345845,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,11028,85135,1
+3296,NA,909917,1646553255762,1646552345845,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,7285,49562,2
+3296,NA,909917,1646553255762,1646552345845,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,11721,73591,3
+3296,NA,909917,1646553255762,1646552345845,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,4940,141684,4
+3296,NA,909917,1646553255762,1646552345845,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,7284,43178,5
+3296,NA,909917,1646553255762,1646552345845,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,15589,31467,6
+3296,NA,909917,1646553255762,1646552345845,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,9154,39497,7
+3296,NA,909917,1646553255762,1646552345845,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1515,51291,8
+3296,NA,909917,1646553255762,1646552345845,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,2010,43147,9
+3296,NA,909917,1646553255762,1646552345845,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1572,41427,10
+3296,NA,909917,1646553255762,1646552345845,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Nein,7256,55565,11
+3296,NA,909917,1646553255762,1646552345845,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1209,43171,12
+3295,NA,649120,1646509349327,1646508700207,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,20568,51550,1
+3295,NA,649120,1646509349327,1646508700207,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,16545,40139,2
+3295,NA,649120,1646509349327,1646508700207,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1895,34388,3
+3295,NA,649120,1646509349327,1646508700207,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,5586,54315,4
+3295,NA,649120,1646509349327,1646508700207,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,7735,37883,5
+3295,NA,649120,1646509349327,1646508700207,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,3713,54513,6
+3295,NA,649120,1646509349327,1646508700207,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1762,24267,7
+3295,NA,649120,1646509349327,1646508700207,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,2946,40899,8
+3295,NA,649120,1646509349327,1646508700207,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1559,30603,9
+3295,NA,649120,1646509349327,1646508700207,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,2580,37954,10
+3295,NA,649120,1646509349327,1646508700207,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,3020,46071,11
+3295,NA,649120,1646509349327,1646508700207,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Ja,2033,31511,12
+3294,NA,569741,1646501942528,1646501372787,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,10891,42508,1
+3294,NA,569741,1646501942528,1646501372787,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,11771,39402,2
+3294,NA,569741,1646501942528,1646501372787,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,11528,38944,3
+3294,NA,569741,1646501942528,1646501372787,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,6010,32102,4
+3294,NA,569741,1646501942528,1646501372787,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,3051,26587,5
+3294,NA,569741,1646501942528,1646501372787,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,14230,29915,6
+3294,NA,569741,1646501942528,1646501372787,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,9615,25478,7
+3294,NA,569741,1646501942528,1646501372787,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,11797,23161,8
+3294,NA,569741,1646501942528,1646501372787,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1896,29844,9
+3294,NA,569741,1646501942528,1646501372787,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,6763,40922,10
+3294,NA,569741,1646501942528,1646501372787,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,1312,21044,11
+3294,NA,569741,1646501942528,1646501372787,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1562,19368,12
+3293,NA,640467,1646496468852,1646495828385,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,12027,57003,1
+3293,NA,640467,1646496468852,1646495828385,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1601,42142,2
+3293,NA,640467,1646496468852,1646495828385,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,4958,29847,3
+3293,NA,640467,1646496468852,1646495828385,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,12742,34969,4
+3293,NA,640467,1646496468852,1646495828385,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,1507,26136,5
+3293,NA,640467,1646496468852,1646495828385,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1658,35186,6
+3293,NA,640467,1646496468852,1646495828385,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2810,27424,7
+3293,NA,640467,1646496468852,1646495828385,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,22015,29802,8
+3293,NA,640467,1646496468852,1646495828385,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,2183,26467,9
+3293,NA,640467,1646496468852,1646495828385,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,11316,32325,10
+3293,NA,640467,1646496468852,1646495828385,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,17312,37987,11
+3293,NA,640467,1646496468852,1646495828385,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,6287,26249,12
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,3142,64158,1
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,4401,32379,2
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,36071,55024,3
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Ja,13353,11881,4
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,5372,42137,5
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,23618,68079,6
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,26705,31394,7
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,10531,47553,8
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,15517,39915,9
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,4791,31893,10
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,29174,35604,11
+3292,"Teilweise war die Antwort korrekt, aber nicht vollständig",821131,1646492966706,1646492145575,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,11192,40357,12
+3291,NA,474654,1646485805833,1646485331179,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,6482,28946,1
+3291,NA,474654,1646485805833,1646485331179,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,3795,24522,2
+3291,NA,474654,1646485805833,1646485331179,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2641,33269,3
+3291,NA,474654,1646485805833,1646485331179,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2524,35403,4
+3291,NA,474654,1646485805833,1646485331179,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,2268,18697,5
+3291,NA,474654,1646485805833,1646485331179,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1148,29491,6
+3291,NA,474654,1646485805833,1646485331179,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,1961,31757,7
+3291,NA,474654,1646485805833,1646485331179,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1379,34434,8
+3291,NA,474654,1646485805833,1646485331179,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,1755,42418,9
+3291,NA,474654,1646485805833,1646485331179,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,2396,34393,10
+3291,NA,474654,1646485805833,1646485331179,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1436,33921,11
+3291,NA,474654,1646485805833,1646485331179,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,5868,22881,12
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1888,30873,1
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,4860,48704,2
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1711,33320,3
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,1877,40204,4
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1776,40220,5
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,1277,47802,6
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1428,24635,7
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,13278,49653,8
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1445,86866,9
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,5078,734417,10
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1080,46950,11
+3290,NA,1288359,1646481956073,1646480667714,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,2278,27668,12
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,6914,59806,1
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,15354,41437,2
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,941,25517,3
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1404,73236,4
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Nein,1526,24096,5
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,1705,31290,6
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,1186,33835,7
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,749,31400,8
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,1347,33706,9
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,3049,31303,10
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,890,30710,11
+3289,NA,1532575,1646480654869,1646479122294,Ja,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,902,31708,12
+3288,NA,552252,1646478905595,1646478353343,Nein,A,false,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,26534,70695,1
+3288,NA,552252,1646478905595,1646478353343,Nein,A,whenq,2,test,Nein,Nein,Ja|Nein,,,Ja,8967,24554,2
+3288,NA,552252,1646478905595,1646478353343,Nein,A,false,2,fillerCond,Nein,Nein,Ja|Nein,,,Nein,3281,29418,3
+3288,NA,552252,1646478905595,1646478353343,Nein,A,whenq,6,test,Nein,Nein,Ja|Nein,,,Ja,2547,29011,4
+3288,NA,552252,1646478905595,1646478353343,Nein,A,true,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,2374,27290,5
+3288,NA,552252,1646478905595,1646478353343,Nein,A,whatifp,1,test,Nein,Nein,Ja|Nein,,,Ja,2259,29025,6
+3288,NA,552252,1646478905595,1646478353343,Nein,A,true,3,fillerCond,Nein,Nein,Ja|Nein,,,Ja,2679,20238,7
+3288,NA,552252,1646478905595,1646478353343,Nein,A,whatifp,5,test,Nein,Nein,Ja|Nein,,,Ja,2552,25182,8
+3288,NA,552252,1646478905595,1646478353343,Nein,A,false,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2860,29311,9
+3288,NA,552252,1646478905595,1646478353343,Nein,A,whatifp,3,test,Nein,Nein,Ja|Nein,,,Ja,2310,26063,10
+3288,NA,552252,1646478905595,1646478353343,Nein,A,true,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2171,34720,11
+3288,NA,552252,1646478905595,1646478353343,Nein,A,whenq,4,test,Nein,Nein,Ja|Nein,,,Nein,2134,19280,12
+3287,NA,509248,1646474545522,1646474036274,Nein,A,whatifp,3,test,Ja,Ja,Ja|Nein,,,Ja,3794,50486,1
+3287,NA,509248,1646474545522,1646474036274,Nein,A,true,2,fillerExhaust,Ja,Ja,Ja|Nein,,,Ja,1443,28874,2
+3287,NA,509248,1646474545522,1646474036274,Nein,A,whenq,4,test,Ja,Ja,Ja|Nein,,,Nein,3867,27116,3
+3287,NA,509248,1646474545522,1646474036274,Nein,A,true,3,fillerCond,Ja,Ja,Ja|Nein,,,Ja,812,18460,4
+3287,NA,509248,1646474545522,1646474036274,Nein,A,whatifp,5,test,Ja,Ja,Ja|Nein,,,Ja,948,23889,5
+3287,NA,509248,1646474545522,1646474036274,Nein,A,false,1,fillerExhaust,Ja,Ja,Ja|Nein,,,Nein,857,18527,6
+3287,NA,509248,1646474545522,1646474036274,Nein,A,whenq,6,test,Ja,Ja,Ja|Nein,,,Ja,841,30219,7
+3287,NA,509248,1646474545522,1646474036274,Nein,A,true,1,fillerCond,Ja,Ja,Ja|Nein,,,Ja,854,21757,8
+3287,NA,509248,1646474545522,1646474036274,Nein,A,whatifp,1,test,Ja,Ja,Ja|Nein,,,Nein,1073,38103,9
+3287,NA,509248,1646474545522,1646474036274,Nein,A,false,3,fillerExhaust,Ja,Ja,Ja|Nein,,,Nein,851,18073,10
+3287,NA,509248,1646474545522,1646474036274,Nein,A,whenq,2,test,Ja,Ja,Ja|Nein,,,Ja,1024,24614,11
+3287,NA,509248,1646474545522,1646474036274,Nein,A,false,2,fillerCond,Ja,Ja,Ja|Nein,,,Nein,794,28164,12
+3286,NA,432886,1646473217714,1646472784828,Ja,B,whenq,3,test,Ja,Nein,Ja|Nein,,,Nein,3866,31306,1
+3286,NA,432886,1646473217714,1646472784828,Ja,B,true,1,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,7140,38934,2
+3286,NA,432886,1646473217714,1646472784828,Ja,B,whatifp,6,test,Ja,Nein,Ja|Nein,,,Ja,9228,26351,3
+3286,NA,432886,1646473217714,1646472784828,Ja,B,whenq,1,test,Ja,Nein,Ja|Nein,,,Nein,7445,35646,4
+3286,NA,432886,1646473217714,1646472784828,Ja,B,false,3,fillerCond,Ja,Nein,Ja|Nein,,,Nein,1372,21550,5
+3286,NA,432886,1646473217714,1646472784828,Ja,B,whatifp,4,test,Ja,Nein,Ja|Nein,,,Nein,11799,20421,6
+3286,NA,432886,1646473217714,1646472784828,Ja,B,false,2,fillerExhaust,Ja,Nein,Ja|Nein,,,Nein,1190,19029,7
+3286,NA,432886,1646473217714,1646472784828,Ja,B,whenq,5,test,Ja,Nein,Ja|Nein,,,Ja,5269,32955,8
+3286,NA,432886,1646473217714,1646472784828,Ja,B,true,2,fillerCond,Ja,Nein,Ja|Nein,,,Ja,2112,23108,9
+3286,NA,432886,1646473217714,1646472784828,Ja,B,false,1,fillerCond,Ja,Nein,Ja|Nein,,,Nein,1812,28282,10
+3286,NA,432886,1646473217714,1646472784828,Ja,B,whatifp,2,test,Ja,Nein,Ja|Nein,,,Ja,2528,17958,11
+3286,NA,432886,1646473217714,1646472784828,Ja,B,true,3,fillerExhaust,Ja,Nein,Ja|Nein,,,Ja,2672,19290,12
+3285,NA,546587,1646473153163,1646472606576,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,4213,42647,1
+3285,NA,546587,1646473153163,1646472606576,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,3037,22156,2
+3285,NA,546587,1646473153163,1646472606576,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Nein,1656,28807,3
+3285,NA,546587,1646473153163,1646472606576,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Nein,2001,46080,4
+3285,NA,546587,1646473153163,1646472606576,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,15124,29727,5
+3285,NA,546587,1646473153163,1646472606576,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1337,72758,6
+3285,NA,546587,1646473153163,1646472606576,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,3270,49508,7
+3285,NA,546587,1646473153163,1646472606576,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Ja,7437,27460,8
+3285,NA,546587,1646473153163,1646472606576,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,1636,23310,9
+3285,NA,546587,1646473153163,1646472606576,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Nein,1615,19845,10
+3285,NA,546587,1646473153163,1646472606576,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,2471,32149,11
+3285,NA,546587,1646473153163,1646472606576,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,11129,30230,12
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,false,2,fillerExhaust,Nein,Ja,Ja|Nein,,,Nein,6427,56096,1
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,whenq,5,test,Nein,Ja,Ja|Nein,,,Ja,9266,72349,2
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,true,2,fillerCond,Nein,Ja,Ja|Nein,,,Ja,19661,30725,3
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,whenq,3,test,Nein,Ja,Ja|Nein,,,Nein,58370,33087,4
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,true,1,fillerExhaust,Nein,Ja,Ja|Nein,,,Ja,31412,29337,5
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,whatifp,6,test,Nein,Ja,Ja|Nein,,,Ja,6254,51217,6
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,false,1,fillerCond,Nein,Ja,Ja|Nein,,,Nein,3591,52475,7
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,whatifp,2,test,Nein,Ja,Ja|Nein,,,Ja,1865,20974,8
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,true,3,fillerExhaust,Nein,Ja,Ja|Nein,,,Ja,4616,24366,9
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,whenq,1,test,Nein,Ja,Ja|Nein,,,Nein,15485,30078,10
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,false,3,fillerCond,Nein,Ja,Ja|Nein,,,Nein,1692,27691,11
+3276,"Ich hatte Probleme, bei unvollständigen Antworten, die jedoch mit ""nur"" o.Ä. eingeleitet wurden, zu entscheiden, ob ich sie als richtig oder falsch einstufen soll. Per se sind sie nicht falsch, sondern nur unvollständig. Je nach Ermessen habe ich deshalb manchmal ""Ja"" und manchmal ""Nein"" angekreuzt.",881626,1645362430934,1645361549308,Ja,B,whatifp,4,test,Nein,Ja,Ja|Nein,,,Ja,1369,36715,12
+3275,NA,768464,1645353525491,1645352757027,Ja,B,false,1,fillerCond,Nein,Nein,Ja|Nein,,,Ja,16983,50523,1
+3275,NA,768464,1645353525491,1645352757027,Ja,B,whatifp,2,test,Nein,Nein,Ja|Nein,,,Ja,8863,71291,2
+3275,NA,768464,1645353525491,1645352757027,Ja,B,true,3,fillerExhaust,Nein,Nein,Ja|Nein,,,Ja,1905,51748,3
+3275,NA,768464,1645353525491,1645352757027,Ja,B,whenq,1,test,Nein,Nein,Ja|Nein,,,Nein,1019,42181,4
+3275,NA,768464,1645353525491,1645352757027,Ja,B,false,3,fillerCond,Nein,Nein,Ja|Nein,,,Nein,890,28858,5
+3275,NA,768464,1645353525491,1645352757027,Ja,B,whatifp,4,test,Nein,Nein,Ja|Nein,,,Ja,7240,21459,6
+3275,NA,768464,1645353525491,1645352757027,Ja,B,whenq,3,test,Nein,Nein,Ja|Nein,,,Ja,1044,71282,7
+3275,NA,768464,1645353525491,1645352757027,Ja,B,true,1,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,2252,33017,8
+3275,NA,768464,1645353525491,1645352757027,Ja,B,whatifp,6,test,Nein,Nein,Ja|Nein,,,Ja,1491,58866,9
+3275,NA,768464,1645353525491,1645352757027,Ja,B,false,2,fillerExhaust,Nein,Nein,Ja|Nein,,,Nein,1212,25354,10
+3275,NA,768464,1645353525491,1645352757027,Ja,B,whenq,5,test,Nein,Nein,Ja|Nein,,,Nein,2029,57241,11
+3275,NA,768464,1645353525491,1645352757027,Ja,B,true,2,fillerCond,Nein,Nein,Ja|Nein,,,Ja,14260,53961,12
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,whenq,1,test,NA,NA,Ja|Nein,,,Ja,7588,41765,1
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,false,3,fillerCond,NA,NA,Ja|Nein,,,Nein,4860,25271,2
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,whatifp,4,test,NA,NA,Ja|Nein,,,Nein,3734,21538,3
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,false,1,fillerCond,NA,NA,Ja|Nein,,,Nein,4280,25809,4
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,whatifp,2,test,NA,NA,Ja|Nein,,,Ja,777,19959,5
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,true,3,fillerExhaust,NA,NA,Ja|Nein,,,Nein,40217,2282,6
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,false,2,fillerExhaust,NA,NA,Ja|Nein,,,Nein,27759,3195,7
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,whenq,5,test,NA,NA,Ja|Nein,,,Ja,897,20904,8
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,true,2,fillerCond,NA,NA,Ja|Nein,,,Ja,2642,26429,9
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,whenq,3,test,NA,NA,Ja|Nein,,,Ja,2706,25691,10
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,true,1,fillerExhaust,NA,NA,Ja|Nein,,,Ja,1964,16672,11
+3272,Oti,420926,1645082168832,1645081747906,Nein,B,whatifp,6,test,NA,NA,Ja|Nein,,,Ja,724,28383,12
